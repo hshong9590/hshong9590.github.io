@@ -10,7 +10,7 @@
 >- 시작에서 종료까지 혼자서 3개월 소요, Unity 와 C# 을 사용
 >- Unity 내부의 여러가지 component 에 대해 이해할 수 있는 기회가 되었으며 게임 설계 및 C# 사용 경험
 >- 프로젝트의 팀원으로서 Agile/Scrum 기반의 개발 경험
->- [Repository](https://github.com/hshong9590/Bouncing-Frog)
+>- [**Repository**](https://github.com/hshong9590/Bouncing-Frog)
 >- [Power Point Presentation](https://hshong9590.github.io/report files/Presentation.pptx)
 
 
