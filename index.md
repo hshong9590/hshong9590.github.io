@@ -33,10 +33,7 @@
 >- 프로젝트의 목적 : OS의 일부 component 가 주어지지 않은 상태에서, Java를 사용하여 구현
 >- 시작에서 종료까지 2명의 팀원과 함께 3개월 소요
 >- 완전히 백지상태에서 구현하는 것이 아닌, 기존의 Code에서 일부를 수정하여 완성하는 과정
->- OS의 아래 개념들에 깊은 이해를 하게 된 계기가 됨
->
-  Process forking / Thread Concurrency &amp; Parallelism / Context Switching / CPU Scheduling / Process Synchronization / Deadlocks / Paging &amp; Swapping
-> &nbsp;
+>- Process forking / Thread Concurrency &amp; Parallelism / Context Switching / CPU Scheduling / Process Synchronization / Deadlocks / Paging &amp; Swapping
 >- [Repository](https://github.com/hshong9590/CSS-430)
 >- [Full Report](https://hshong9590.github.io/report files/css430_report.pdf)
 
