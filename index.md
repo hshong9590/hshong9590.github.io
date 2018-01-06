@@ -10,13 +10,13 @@
 >- socket.io 를 처음 사용해보았는데 공식 사이트에 예제와 설명이 잘되어 있어서 큰 어려움없이 개발
 >- 날짜/시간을 처리할때 Date대신 moment.js 을 사용하여 구현
 >- 반복되는 메시지 전송 처리에 mustache.js 템플릿 엔진을 사용하여 구현
->- node.js 의 호스팅 서버로 Heroku를 사용 (아래링크)
+>- Node.js 의 호스팅 서버로 Heroku를 사용 (아래링크)
 >- [Heroku](https://shrouded-fortress-96840.herokuapp.com/)
 >- [Repo](https://github.com/hshong9590/node-chat-app)
 
 
 
-### Android 2D game &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2017년 1월 – 2017년 3월
+### Android 2D Game &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2017년 1월 – 2017년 3월
 
 >- 지도교수님의 Research Assistant 로서, 아동을 대상으로 한 Android 2D game 을 구현
 >- 7-11세 아동의 시력향상 및 눈 운동이 되는 간단한 아동용 게임
