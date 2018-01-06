@@ -6,7 +6,7 @@
 ### 실시간 채팅 프로그램 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2017년 12월
 
 >- 최근 공부한 Node.js를 이용하여 간단한 채팅 프로그램을 구현
->- 사용 모듈 - express.js || socket.io || moment.js || mustache.js
+>- 사용 모듈 - express.js / socket.io / moment.js / mustache.js
 >- socket.io 를 처음 사용해보았는데 공식 사이트에 예제와 설명이 잘되어 있어서 큰 어려움없이 개발
 >- 날짜/시간을 처리할때 Date대신 moment.js 을 사용하여 구현
 >- 반복되는 메시지 전송 처리에 mustache.js 템플릿 엔진을 사용하여 구현
